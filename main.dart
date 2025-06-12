@@ -12,7 +12,7 @@ void main(){
 
 Weekday? weekday;
 
-weekday=null;
+weekday=Weekday.thursday;
 
 switch (weekday){
 
